@@ -1,0 +1,6 @@
+{
+  "name": "Storyteller AI",
+  "description": "An AI-powered application that generates a short story from your prompt.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
