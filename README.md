@@ -6,6 +6,20 @@ Welcome to **Storyteller AI**, an innovative web application designed to craft u
 
 Storyteller AI is a React-based web app that leverages modern JavaScript and Tailwind CSS for a responsive, visually appealing user interface. Users can input a theme or sentence, such as "A lone astronaut discovering a glowing forest on a distant moon," and the app generates a multi-segment story tailored to their input. The project showcases a blend of frontend development and AI-driven content generation, making it a perfect example of human-AI collaboration. ✨
 
+<h2>🖼️ Screenshots Gallery 📸💻</h2>
+<p>Here’s a quick visual walkthrough of the app:</p>
+
+<h3>🚀 Landing Page 🧠📘</h3>
+<p align="center">
+  <img src="assets/Screenshot 2025-07-09 122145.png" width="600">
+</p>
+
+<h3>🎯 Output Preview ⚙️✨</h3>
+<p align="center">
+  <img src="assets/Screenshot 2025-07-09 122323.png" width="600">
+</p>
+
+
 ## Features 🎨
 
 - **Prompt-Based Story Generation**: Enter a theme or sentence to create a unique story. 📝
